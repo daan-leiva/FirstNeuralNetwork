@@ -1,0 +1,1 @@
+c:\users\researchbeast\documents\visual studio 2015\Projects\TrainingNeuralNetworks\TrainingNeuralNetworks\bin\Debug\TrainingNeuralNetworks.exe.config
